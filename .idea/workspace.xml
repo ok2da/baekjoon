@@ -4,125 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee5b6c1a-7b4a-4bd4-8de9-38dd8b8cec5e" name="변경" comment="24-07-03 -- 1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level16_스택_큐_덱/p0005_12789_도키도키_간식드리미.java" afterDir="false" />
+    <list default="true" id="ee5b6c1a-7b4a-4bd4-8de9-38dd8b8cec5e" name="변경" comment="24-07-05 -- 1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level16_스택_큐_덱/p0006_18258_큐2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level10_기하_직사각형과_삼각형/P0001_27323_직사각형.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level10_기하_직사각형과_삼각형/P0002_1085_직사각형에서_탈출.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level10_기하_직사각형과_삼각형/P0003_3009_네번째점.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level10_기하_직사각형과_삼각형/P0004_15894_수학은체육과목입니다.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level10_기하_직사각형과_삼각형/P0004_9063_대지.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level10_기하_직사각형과_삼각형/P0005_10101_삼각형외우기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level10_기하_직사각형과_삼각형/P0006_5073_삼각형과세변.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level10_기하_직사각형과_삼각형/P0007_14215_세막대.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level11_시간복잡도/P0001_24262_알고리즘수업_알고리즘의수행시간1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level11_시간복잡도/P0002_24263_알고리즘수업_알고리즘의수행시간2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level11_시간복잡도/P0003_24264_알고리즘수업_알고리즘의수행시간3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level11_시간복잡도/P0004_24265_알고리즘수업_알고리즘의수행시간4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level11_시간복잡도/P0005_24266_알고리즘수업_알고리즘의수행시간5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level11_시간복잡도/P0006_24313_알고리즘_수업_점근적_표기_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level12_브루트포스/P0001_2798_블랙잭.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level12_브루트포스/P0002_2231_분해합.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level12_브루트포스/P0003_19532_수학은비대면강의입니다.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level12_브루트포스/P0004_1018_체스판다시칠하기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level12_브루트포스/P0005_1436_영화감독숌.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level12_브루트포스/P0006_2839_설탕배달.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level13_정렬/P0001_2750_수정렬하기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level13_정렬/P0002_2587_대표값2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level13_정렬/P0003_25305_커트라인.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level13_정렬/P0004_2751_수정렬하기2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level13_정렬/P0005_10989_수정렬하기3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level13_정렬/P0006_1427_소트인사이드.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level13_정렬/P0007_11650_좌표정렬하기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level13_정렬/P0008_11651_좌표정렬하기2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level13_정렬/P0009_1181_단어정렬.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level13_정렬/P0010_10814_나이순정렬.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level13_정렬/P0011_18870_좌표압축.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level14_집합과맵/P0001_10815_숫자카드.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level14_집합과맵/P0002_14425_문자열집합.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level14_집합과맵/P0003_7785_회사에있는사람.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level14_집합과맵/P0004_1620_나는야포켓몬마스터이다솜.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level14_집합과맵/P0005_10816_숫자카드2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level14_집합과맵/P0006_1764_듣보잡.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level14_집합과맵/P0007_1269_대칭차집합.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level14_집합과맵/P0008_11478_서로다른부분문자열개수.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level1_입출력과_사칙연산/P0001_2557_Hello_World.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level1_입출력과_사칙연산/P0002_1000_A더하기B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level1_입출력과_사칙연산/P0003_1001_A빼기B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level1_입출력과_사칙연산/P0004_10998_A곱하기B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level1_입출력과_사칙연산/P0005_1008_A나누기B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level1_입출력과_사칙연산/P0006_10869_사칙연산.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level1_입출력과_사칙연산/P0007_10926_특수문자.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level1_입출력과_사칙연산/P0008_18108_연도계산.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level1_입출력과_사칙연산/P0009_10430_나머지.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level1_입출력과_사칙연산/P0010_2588_곱셈.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level1_입출력과_사칙연산/P0011_11382_ABC더하기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level1_입출력과_사칙연산/P0012_10171_특수문자출력.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level1_입출력과_사칙연산/P0013_10172_특수문자출력2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level2_조건문/P0001_1330_두수비교하기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level2_조건문/P0002_9498_시험성적.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level2_조건문/P0003_2753_윤년.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level2_조건문/P0004_14681_사분면고르기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level2_조건문/P0005_2884_알람시계.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level2_조건문/P0006_2525_오븐시계.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level2_조건문/P0007_2480_주사위세개.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level3_반복문/P0001_2739_구구단.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level3_반복문/P0002_10950_A더하기B_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level3_반복문/P0003_8393_합.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level3_반복문/P0004_25304_영수증.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level3_반복문/P0005_25314_코딩은체육과목입니다.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level3_반복문/P0006_15552_빠른A더하기B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level3_반복문/P0007_11021_A더하기B_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level3_반복문/P0008_11022_A더하기B_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level3_반복문/P0009_2438_별찍기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level3_반복문/P0010_2439_별찍기2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level3_반복문/P0011_10952_A더하기B_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level3_반복문/P0012_10951_A더하기B_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level4_1차원_배열/P0001_10807_개수세기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level4_1차원_배열/P0002_10871_X보다작은수.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level4_1차원_배열/P0003_10818_최소최대.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level4_1차원_배열/P0004_2562_최댓값.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level4_1차원_배열/P0005_10810_공넣기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level4_1차원_배열/P0006_10813_공바꾸기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level4_1차원_배열/P0007_5597_과제안내신분.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level4_1차원_배열/P0008_3052_나머지.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level4_1차원_배열/P0009_10811_바구니뒤집기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level4_1차원_배열/P0010_1546_평균.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level5_문자열/P0001_27866_문자와문자열.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level5_문자열/P0002_2743_단어길이재기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level5_문자열/P0003_9086_문자열.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level5_문자열/P0004_11654_아스키코드.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level5_문자열/P0005_11720_숫자의합.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level5_문자열/P0006_10809_알파벳찾기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level5_문자열/P0007_2675_문자열반복.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level5_문자열/P0008_1152_단어의개수.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level5_문자열/P0009_2908_상수.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level5_문자열/P0010_5622_다이얼.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level5_문자열/P0011_11718_그대로출력하기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level6_심화1/P0001_25083_새싹.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level6_심화1/P0002_3003_킹_퀸_룩_비숍_나이트_폰.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level6_심화1/P0003_2444_별찍기7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level6_심화1/P0004_10988_팰린드롬.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level6_심화1/P0005_1157_단어공부.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level6_심화1/P0006_2941_크로아티아알파벳.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level6_심화1/P0007_1316_그룹단어체커.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level6_심화1/P0008_25206_너의평점은.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level7_2차원배열/P0001_2738_행렬덧셈.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level7_2차원배열/P0002_2566_최댓값.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level7_2차원배열/P0003_10798_세로읽기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level7_2차원배열/P0004_2563_색종이.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level8_일반수학1/P0001_2745_진법변환.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level8_일반수학1/P0002_11005_진법변환2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level8_일반수학1/P0003_2720_세탁소사장동혁.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level8_일반수학1/P0004_2903_중앙이동알고리즘.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level8_일반수학1/P0005_2292_벌집.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level8_일반수학1/P0006_1193_분수찾기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level8_일반수학1/P0007_2869_달팽이는올라가고싶다.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level9_약수_배수와_소수/P0001_5086_배수와약수.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level9_약수_배수와_소수/P0002_2501_약수구하기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level9_약수_배수와_소수/P0003_9506_약수들의합.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level9_약수_배수와_소수/P0004_1978_소수찾기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level9_약수_배수와_소수/P0005_11653_소인수분해.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1720008421911</updated>
       <workItem from="1720008423513" duration="1171000" />
-      <workItem from="1720101938038" duration="5603000" />
+      <workItem from="1720101938038" duration="5927000" />
+      <workItem from="1720189755470" duration="1692000" />
     </task>
     <task id="LOCAL-00001" summary="24-07-03 -- 1">
       <option name="closed" value="true" />
@@ -190,7 +76,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720009361154</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="24-07-05 -- 1">
+      <option name="closed" value="true" />
+      <created>1720107861637</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720107861637</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +92,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="24-07-03 -- 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="24-07-03 -- 1" />
+    <MESSAGE value="24-07-05 -- 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="24-07-05 -- 1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
