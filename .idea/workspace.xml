@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee5b6c1a-7b4a-4bd4-8de9-38dd8b8cec5e" name="변경" comment="24-07-05 -- 1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level16_스택_큐_덱/p0006_18258_큐2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ee5b6c1a-7b4a-4bd4-8de9-38dd8b8cec5e" name="변경" comment="24-07-05 -- 2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level16_스택_큐_덱/p0007_2164_카드2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,8 @@
       <updated>1720008421911</updated>
       <workItem from="1720008423513" duration="1171000" />
       <workItem from="1720101938038" duration="5927000" />
-      <workItem from="1720189755470" duration="1692000" />
+      <workItem from="1720189755470" duration="2057000" />
+      <workItem from="1720276853346" duration="3052000" />
     </task>
     <task id="LOCAL-00001" summary="24-07-03 -- 1">
       <option name="closed" value="true" />
@@ -84,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720107861637</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="24-07-05 -- 2">
+      <option name="closed" value="true" />
+      <created>1720191535968</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720191535968</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,7 +101,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="24-07-03 -- 1" />
     <MESSAGE value="24-07-05 -- 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="24-07-05 -- 1" />
+    <MESSAGE value="24-07-05 -- 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="24-07-05 -- 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
