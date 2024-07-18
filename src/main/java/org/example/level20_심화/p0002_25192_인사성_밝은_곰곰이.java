@@ -1,4 +1,4 @@
-package org.example.level20_약수;
+package org.example.level20_심화;
 
 import java.io.BufferedReader;
 import java.io.IOException;
