@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee5b6c1a-7b4a-4bd4-8de9-38dd8b8cec5e" name="변경" comment="24-07-20 -- 1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level21_재귀/p0002_10870_피보나치_수_5.java" afterDir="false" />
+    <list default="true" id="ee5b6c1a-7b4a-4bd4-8de9-38dd8b8cec5e" name="변경" comment="24-07-21 -- 1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level21_재귀/p0003_25501_재귀의_귀재.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +75,7 @@
       <workItem from="1720693965935" duration="3665000" />
       <workItem from="1720776640691" duration="2257000" />
       <workItem from="1720853587635" duration="29704000" />
-      <workItem from="1721557572791" duration="2723000" />
+      <workItem from="1721557572791" duration="6855000" />
     </task>
     <task id="LOCAL-00001" summary="24-07-03 -- 1">
       <option name="closed" value="true" />
@@ -221,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721454024383</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="24-07-21 -- 1">
+      <option name="closed" value="true" />
+      <created>1721560375296</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1721560375296</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +254,8 @@
     <MESSAGE value="24-07-18 -- 1" />
     <MESSAGE value="24-07-19 -- 1" />
     <MESSAGE value="24-07-20 -- 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="24-07-20 -- 1" />
+    <MESSAGE value="24-07-21 -- 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="24-07-21 -- 1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
